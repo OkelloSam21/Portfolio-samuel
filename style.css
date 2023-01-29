@@ -1,35 +1,39 @@
+/* styling the body */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     max-width: 960px;
     margin: auto;
 }
+/* Applying style to the h1 */
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
-
+/* Applying style to the h2 */
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
 }
-
+/* Applying style to the h3 */
 h3 {
     font-size: 1em;
     padding-bottom: 1em;
 }
+/* Applying style to the main */
 main { 
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
+/* Applying style to the header */
 header {
     text-align: center;
     margin: auto 2em;
 }
-
+/* Applying style to the section */
 section {
     margin: auto 1em 4em 2em;
 }
